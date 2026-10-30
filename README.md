@@ -39,7 +39,7 @@ flowchart LR
 
 **Próximos passos para produção:** prova de vida (*anti-spoofing*) contra foto ou vídeo de outra pessoa, testes com milhares de rostos, consentimento e tratamento de dados biométricos conforme a LGPD.
 
-> 🔒 **Privacidade:** as fotos usadas no teste (integrantes da equipe e figuras públicas) **não são publicadas**, e as imagens foram retiradas das saídas do notebook. Para rodar, use suas próprias fotos, organizadas assim:
+> 📸 **Fotos:** o repositório inclui as fotos de um dos integrantes, em `01-reconhecimento-facial/imagem/Ruan/`, como exemplo da estrutura. As fotos das outras pessoas do teste (outra integrante e figuras públicas) não são publicadas, e as imagens foram retiradas das saídas do notebook. Para rodar com várias pessoas, acrescente suas próprias fotos, organizadas assim:
 > ```
 > imagem/<pessoa>/treino/  (4 fotos)
 > imagem/<pessoa>/teste/   (1 foto)
